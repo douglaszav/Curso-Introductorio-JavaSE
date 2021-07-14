@@ -1,5 +1,4 @@
 .idea
 out/production/HolaMundoJava
-*.class
 *.iml
 *xml
